@@ -1,0 +1,36 @@
+Cohort_Number,Cohort_Name,ICD9_Code,ICD9_Text,Added_by
+1,Alcohol,30500,"Alcohol abuse, unspecified",Malte
+1,Alcohol,30390,"Other and unspecified alcohol dependence, unspecified",Malte
+1,Alcohol,29181,Alcohol withdrawal,Malte
+1,Alcohol,5711,Acute alcoholic hepatitis,Malte
+1,Alcohol,30301,"Acute alcoholic intoxication in alcoholism, continuous",Malte
+1,Alcohol,30391,"Other and unspecified alcohol dependence, continuous",Malte
+1,Alcohol,30501,"Alcohol abuse, continuous",Malte
+1,Alcohol,2910,Alcohol withdrawal delirium,Malte
+1,Alcohol,53531,"Alcoholic gastritis, with hemorrhage",Malte
+1,Alcohol,30300,"Acute alcoholic intoxication in alcoholism, unspecified",Malte
+1,Alcohol,2913,Alcohol-induced psychotic disorder with hallucinations,Malte
+1,Alcohol,53530,"Alcoholic gastritis, without mention of hemorrhage",Malte
+1,Alcohol,30392,"Other and unspecified alcohol dependence, episodic",Malte
+1,Alcohol,9800,Toxic effect of ethyl alcohol,Malte
+2,IV Drug Abuse,30590,"Other, mixed, or unspecified drug abuse, unspecified",Malte
+2,IV Drug Abuse,30591,"Other, mixed, or unspecified drug abuse, continuous",Malte
+2,IV Drug Abuse,30593,"Other, mixed, or unspecified drug abuse, in remission",Malte
+2,IV Drug Abuse,30592,"Other, mixed, or unspecified drug abuse, episodic",Malte
+8,Physical Disability,V4975,Below knee amputation status,Malte
+8,Physical Disability,V4987,Physical restraints status,Malte
+8,Physical Disability,V4976,Above knee amputation status,Malte
+8,Physical Disability,V4972,Other toe(s) amputation status,Malte
+8,Physical Disability,V4973,Foot amputation status,Malte
+8,Physical Disability,V4962,Other finger(s) amputation status,Malte
+8,Physical Disability,V4971,Great toe amputation status,Malte
+8,Physical Disability,V4960,Unspecified level upper limb amputation status,Malte
+8,Physical Disability,V4965,Below elbow amputation status,Malte
+8,Physical Disability,V4961,Thumb amputation status,Malte
+8,Physical Disability,V4963,Hand amputation status,Malte
+8,Physical Disability,V4966,Above elbow amputation status,Malte
+11,Smoking,3051,Tobacco use disorder,Malte
+11,Smoking,V1582,Personal history of tobacco use,Malte
+11,Smoking,64903,"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",Malte
+11,Smoking,64904,"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",Malte
+13,Hypochondriacs,3007,Hypochondriasis,Malte
